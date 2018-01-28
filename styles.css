@@ -1,5 +1,5 @@
 .col{
-  font-size:10px;
+  font-size:12px;
 }
 
 body{
@@ -7,9 +7,11 @@ body{
 }
 
 .jumbotron{
-  background-image: url(travelcover.jpg);
-  background-size: 100%;
-  color: white;
+  background-image: url(flightpack.jpg);
+  background-size: cover;
+  color: black;
+  height:450px;
+  text-align:right;
 }
 
 h2 {
@@ -19,4 +21,12 @@ h2 {
 
 .card-header{
   text-align:center;
+}
+
+.link{
+  color:black;
+}
+
+.display-4, .lead{
+  text-align:right;
 }
