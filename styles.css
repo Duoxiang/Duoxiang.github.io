@@ -30,3 +30,12 @@ h2 {
 .display-4, .lead{
   text-align:right;
 }
+
+h3 {
+  font-size:20px;
+  font-weight:lighter;
+}
+
+.footer{
+  font-size:8px;
+}
