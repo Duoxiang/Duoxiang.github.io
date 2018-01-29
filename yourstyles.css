@@ -3,9 +3,9 @@ body{
 }
 
 .jumbotron{
-  background-image: url(packing.jpg);
-  background-size: 100%;
-  height:350px;
+  background-color:black;
+  height:250px;
+  color:white;
 }
 
 h2 {
@@ -28,4 +28,12 @@ h3 {
 
 .link{
   color:black;
+}
+
+.blockquote, .card-text{
+  font-weight:lighter;
+}
+
+.card-title{
+  font-weight:normal;
 }
