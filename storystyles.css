@@ -3,9 +3,8 @@ body{
 }
 
 .jumbotron{
-  background-image: url(packing.jpg);
-  background-size: 100%;
-  background-repeat:no-repeat;
+  background-image: url(covernew.jpg);
+  background-size:cover;
   height:350px;
 }
 
